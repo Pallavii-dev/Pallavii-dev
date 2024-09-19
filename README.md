@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BlackArch, Binary Exploitation**
 
-- 👯 I’m looking to collaborate on **Bug Bounty Hunting**
+- 👯 I’m looking to collaborate on **Bug Bounty Hunting** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pallavi235222](https://github.com/Pallavi235222)
 
