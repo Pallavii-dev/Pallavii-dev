@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm pallavi</h1>
 <h3 align="center">A Bug Bounty Hunter At HackerOne</h3>
 
-<p align="left"> <a href="https://twitter.com/pannupallavis" target="blank"><img src="https://img.shields.io/twitter/follow/pannupallavis?logo=twitter&style=for-the-badge" alt="pannupallavis" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pannupallavis " target="blank"><img src="https://img.shields.io/twitter/follow/pannupallavis?logo=twitter&style=for-the-badge" alt="pannupallavis" /></a> </p>
 
 - 🔭 I’m currently working on **Recon Automation**
 
-- 🌱 I’m currently learning **BlackArch, Binary Exploitation**
+- 🌱 I’m currently learning **Buffer Overflow, Binary Exploitation**
 
 - 👯 I’m looking to collaborate on **Bug Bounty Hunting** 
 
