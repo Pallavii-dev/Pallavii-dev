@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Recon Automation**
 
-- 🌱 I’m currently learning **Buffer Overflow, Binary Exploitation**
+- 🌱 I’m currently learning **Buffer Overflow, Binary Exploitation.**
 
 - 👯 I’m looking to collaborate on **Bug Bounty Hunting** 
 
