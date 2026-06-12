@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN, Ethical Hacking, Cyber Security, Bash, Bug Bounty Hunting**
 
-- 📫 How to reach me **pallavis235222@gmail.com** 
+- 📫 How to reach me **pallavis2322@gmail.com** 
 
 - 📄 Know about my experiences [https://github.com/Pallavii-dev](https://github.com/Pallavii-dev)
 
